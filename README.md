@@ -27,6 +27,8 @@ Build
 
 1. Make your build.img
 
+ $ git clone https://github.com/vinc3nt/freepto-lb.git
+
  $ lb config && lb build
 
 Make Freepto
