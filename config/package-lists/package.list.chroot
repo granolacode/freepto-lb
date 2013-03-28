@@ -53,3 +53,6 @@ deb-multimedia-keyring
 w32codecs
 libdvdcss2
 vlc
+
+# Local Wiki
+zim
