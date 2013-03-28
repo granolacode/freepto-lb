@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Opuscolo
+Comment=Opuscolo di autodifesa digitale
+Category=freepto
+#Icon=anonymous.ico
+Exec=firefox /usr/share/doc/freepto/opuscolo.html
+Path=
+Terminal=true
+StartupNotify=false
