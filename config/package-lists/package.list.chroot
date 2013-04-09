@@ -17,6 +17,7 @@ btrfs-tools
 # Network:
 tor
 tor-arm
+tor-browser
 pidgin
 pidgin-otr
 deb.torproject.org-keyring
